@@ -17,7 +17,7 @@ char rdata;
 String w;
 String x;
 String y;
-String o;
+String z;
 int firstVal, secondVal,thirdVal,fourthVal;
 
 

@@ -4,7 +4,7 @@
  - download the required libraries to run the code on arduino ide successfully
  - i have coded for dht22 , soil moisture , ldr sensors , feel free to use any other sensors and change code accordingly
  - i have used arduino uno to read sensor values , perform relay operations and node mcu to send data to firebase
- - i have attached java and res file for andriod app , find the same in andriod directory
+ - i have attached java and res file for android app , find the same in andriod directory
  - to integrate firebase to your andriod project refer few youtube vedios / firebase documentation 
  - feel free to drop any doubts at comments section
  enjoy coding!

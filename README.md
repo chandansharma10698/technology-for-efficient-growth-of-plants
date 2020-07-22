@@ -1,4 +1,5 @@
 # technology for efficient growth of plants
+<<<<<<< HEAD
  an IoT project which consists of reading the values from sensors and perform few operartions like watering plant , turning fans on/off and turing on/off the lights and then send sensor to firebase , retrive data on anrdoid app!
  Working with this project
  - download the required libraries to run the code on arduino ide successfully
@@ -9,4 +10,7 @@
  - feel free to drop any doubts at comments section
  enjoy coding!
 
+=======
+ an IoT project which consists of reading the values from sensors and perform few operartions like watering plant , turning fans on/off and turning on/off the lights and then send sensor to firebase , retrive data on android app!
+>>>>>>> eedd74783004f730aa5f838ef0439c81a13e818f
 
